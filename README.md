@@ -1,2 +1,2 @@
-# Git and Gitbash
+# Git and Github Assignment
 
